@@ -1,0 +1,40 @@
+﻿Build started 09/05/2017 15:37:52.
+     1>Project "Z:\CPP_CW2016\CPP_CW2016\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Z:\CPP_CW2016\CPP_CW2016\/Debug\\" /Fd"Z:\CPP_CW2016\CPP_CW2016\/Debug\vc120.pdb" /FR"Z:\CPP_CW2016\CPP_CW2016\/Debug\\" /Gd /TP /analyze- /errorReport:prompt Psysy1Spider.cpp
+         Psysy1Spider.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"Z:\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH Z:\CPP_CW2016\CPP_CW2016\/Debug\mainfunction.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\BaseEngine.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\DisplayableObject.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\FontManager.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\JPGImage.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Candy.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Spider.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Engine.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Basket.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Fruit.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Item.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1TileManager.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Psysy1Treasure.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\SimpleDemo.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\TileManager.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\BouncingBall.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\BouncingBallMain.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo1Main.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo2Main.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo2Object.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo2TileManager.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo3Main.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo3Object.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo3ObjectFinished.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo3TileManager.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo4Main.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo4Object.obj
+         Z:\CPP_CW2016\CPP_CW2016\/Debug\Demo4TileManager.obj
+         CourseworkBase.vcxproj -> Z:\CPP_CW2016\CPP_CW2016\/Debug\CourseworkBase.exe
+     1>Done Building Project "Z:\CPP_CW2016\CPP_CW2016\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.96
